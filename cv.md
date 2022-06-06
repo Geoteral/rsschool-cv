@@ -17,6 +17,3 @@ I don't really have special skills that is useful for coding so i leave this sec
 
 ### **Languages:**
 English: upper intermediate 
-
-![my quick english test result from www.efset.org](D:\test_result1.jpg)
-

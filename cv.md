@@ -16,4 +16,4 @@ Currently i am working on a local radio station as sound engineer and sometimes 
 I don't really have special skills that is useful for coding so i leave this section empty for now.
 
 ### **Languages:**
-English: upper intermediate 
+English: upper intermediate
